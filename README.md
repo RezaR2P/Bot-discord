@@ -1,5 +1,4 @@
-# Bot-Discord
-## TO DO LIST
+# TO DO LIST
 
 1. [ ] How to make a Discord bot for beginner (Discord.js v14) 
 2. [ ] Register and run Slash Commands (Discord.js v14) 
